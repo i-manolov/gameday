@@ -1,0 +1,21 @@
+dist
+
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+.env
+.env.test
+
+# OS metadata
+.DS_Store
+Thumbs.db
